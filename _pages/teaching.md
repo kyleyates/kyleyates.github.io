@@ -32,3 +32,16 @@ Here are the courses I have served as a TA for at Clemson University.
 | Spring 2021  | Introduction to Ordinary Differential Equations  |
 | Fall 2020  | Calculus of Several Variable  |
 
+
+### Courses TA'd at San Diego State
+
+Here are the courses I have served as a TA for at San Diego State University.
+
+| Semester  | Course |
+| ------------- | ------------- |
+| Spring 2020 | Elementary Differential Equations  |
+| Fall 2019  | Elementary Differential Equations  |
+| Spring 2019  | Elementary Differential Equations  |
+| Fall 2018  | Elementary Differential Equations  |
+| Fall 2017  | Precalculus |
+
