@@ -11,4 +11,6 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-$x^2$
+\begin{align*}
+x^2 &= 1
+\end{align*}
