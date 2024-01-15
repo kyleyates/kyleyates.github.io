@@ -7,10 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Here is a list of courses by semester of courses I have taught as the instructor of record at Clemson University.
 
-Organize your courses by years, topics, or universities, however you like!
-
-\begin{align*}
-x^2 &= 1
-\end{align*}
+Spring 2024 - Calculus of One Variable II
+Fall 2023 - Calculus of One Variable I ([RISE](https://www.clemson.edu/cecas/rise/index.html) section)
+Spring 2023 - Calculus of One Variable I
+Fall 2022 - Business Calculus I
+Spring 2022 - Business Calculus I
+Fall 2021 - Business Calculus I
