@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+
+
 ### Courses Taught at Clemson (Instructor of Record)
 
 Here are the courses I have taught as the instructor of record at Clemson University.
@@ -21,6 +23,8 @@ Here are the courses I have taught as the instructor of record at Clemson Univer
 | Fall 2021  | Business Calculus I  |
 
 
+
+
 ### Courses TA'd at Clemson
 
 Here are the courses I have served as a TA for at Clemson University.
@@ -31,6 +35,8 @@ Here are the courses I have served as a TA for at Clemson University.
 | Summer 2021  | Introduction to Ordinary Differential Equations  |
 | Spring 2021  | Introduction to Ordinary Differential Equations  |
 | Fall 2020  | Calculus of Several Variable  |
+
+
 
 
 ### Courses TA'd at San Diego State
