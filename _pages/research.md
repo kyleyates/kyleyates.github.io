@@ -19,7 +19,7 @@ The most relevant application of homomorphic encryption is for secure cloud comp
 
 ### How does homomorphic encryption work?
 
-The standard homomorphic encryption schemes take advantage of the ring learning with errors (RLWE) problem. For some polynomial $$\Phi(x)$$ of degree $$n$$, define the following rings $$R$$ and $$R_q$$:
+The standard homomorphic encryption schemes take advantage of the ring learning with errors (RLWE) problem. For some polynomial $$\Phi(x)$$ and positive integer $$q$$, define the following rings $$R$$ and $$R_q$$:
 
 $$ R = \mathbb{Z}[x]/(\Phi (x)) $$
 
@@ -29,7 +29,7 @@ First, choose secret $$s \in R$$ random with small coefficients. Then, sample so
 
 The RLWE problem is given many RLWE samples, to determine the secret polynomial $$s$$. The hardness of this problem was shown by [Lyubashevsky, Peikert, and Regev](https://dl.acm.org/doi/10.1007/978-3-642-13190-5_1) in 2010, and is the underlying problem in current homomorphic encryption schemes.
 
-In these schemes, the ciphertext essentially forms a modified RLWE sample. For instance, in the [BGV](https://eprint.iacr.org/2011/277) scheme, we start with a message $$m \in R_t$$ for some plaintext modulus $$t$$. To encrypt $$m$$, we sample $$a$$, $$e$$, and secret $$s$$ as above, then calculate $$b\in R_q$$ via $$b= -as+m+te \mod (\Phi,q)$$. The ordered pair $$(a,b)$$ forms our BGV ciphertext. This describes the private key encryption algorithm, but a public key version of all these cryptosystems exist as well.
+In these schemes, the ciphertext essentially forms a modified RLWE sample. For instance, in the [BGV](https://eprint.iacr.org/2011/277) scheme, we start with a message $$m \in R_t$$ for some plaintext integer modulus $$t$$. To encrypt $$m$$, we sample $$a$$, $$e$$, and secret $$s$$ as above, then calculate $$b\in R_q$$ via $$b= -as+m+te \mod (\Phi,q)$$. The ordered pair $$(a,b)$$ forms our BGV ciphertext. This describes the private key encryption algorithm, but a public key version of all these cryptosystems exist as well.
 
 The unique aspect of the encryption is that our ciphertexts are in a format where we can define addition and multiplication operations between them. For example, let’s suppose we have two BGV ciphertexts $$(a_0,b_0)$$ and $$(a_1,b_1)$$ which satisfy
 
