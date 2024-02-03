@@ -2,9 +2,10 @@
 layout: page
 permalink: /slides/
 title: Presentation Slides
-description: Here, you'll find slides
+description:
 nav: false
 nav_order: 6
 ---
 
 
+Presentation slides coming soon!
