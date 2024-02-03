@@ -41,7 +41,7 @@ Then, we can add our ciphertexts together to form a new ciphertext $(a_2,b_2) = 
 
 $$ b_2 + a_2s \equiv b_0 + b_1 + (a_0 + a_1)s \equiv (b_0 + a_0s) + (b_1 + a_1s)\equiv (m_0 + te_0) + (m_1 + te_1)$$
 
-$$ \equiv m_0 + m_1 + t(e_0+e_1) \equiv m_0+m_1 + e_2 \mod (\Phi, q)$$
+$$ \equiv m_0 + m_1 + t(e_0+e_1) \equiv m_0+m_1 + te_2 \mod (\Phi, q)$$
 
 We omit some finer details here, but this captures the basic idea of how we can add ciphertexts together. We can define a procedure for multiplication as well, but it becomes far more complicated and involved.
 
