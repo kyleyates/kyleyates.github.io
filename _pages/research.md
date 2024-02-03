@@ -7,4 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-Research information coming soon!
+My research area is in cryptography. Specifically, I study a topic known as homomorphic encryption.
+
+More information on research coming soon!
+
+
