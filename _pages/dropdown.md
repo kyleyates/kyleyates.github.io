@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: test
-    permalink: /about_einstein/
+    permalink: /slides/
   - title: divider
   - title: research
     permalink: /research/
