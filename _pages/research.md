@@ -23,7 +23,7 @@ The standard homomorphic encryption schemes take advantage of the ring learning 
 
 $$ R_n = \mathbb{Z}[x]/(\Phi (x)) $$
 
-$$ R_q = \mathbb{Z}[x]/(q,\Phi (x)) $$
+$$ R_q = \mathbb{Z}[x]/(\Phi (x),q) $$
 
 First, choose secret $s \in R$ random with small coefficients. Then, sample some polynomial $a$ uniform randomly from $R_q$, and sample random polynomial $e$ with small coefficients from $R$. Then, compute $b\in R_q$ via $b= -as+e \mod q$. The ordered pair $(a,b)$ is called an RLWE sample.
 
@@ -39,9 +39,9 @@ $$ b_1 + a_1s \equiv m_1 + te_1 $$
 
 Then, we can add our ciphertexts together to form a new ciphertext $(a_2,b_2) = (a_0,b_0)+(a_1,b_1)$. If we define $e_2 = e_0 + e_1$, we then claim $(a_2,b_2)$ is an encryption of $m_0+m_1$. That is, $(a_2,b_2)$ satisfies the same relationship as $(a_0,b_0)$ and $(a_1,b_1)$ that we outline above, but for the message $m_0+m_1$ instead. Observe:
 
-$$ b_2 + a_2s \equiv b_0 + b+1 + (a_0 + a_1)s \equiv (b_0 + a_0s) + (b_1 + a_1s)$$
+$$ b_2 + a_2s \equiv b_0 + b+1 + (a_0 + a_1)s \equiv (b_0 + a_0s) + (b_1 + a_1s)\equiv (m_0 + te_0) + (m_1 + te_1)$$
 
-$$\equiv (m_0 + te_0) + (m_1 + te_1) \equiv m_0 + m_1 + t(e_0+e_1) \equiv m_0+m_1 + e_2$$
+$$ \equiv m_0 + m_1 + t(e_0+e_1) \equiv m_0+m_1 + e_2 \mod (\Phi, q)$$
 
 We omit some finer details here, but this captures the basic idea of how we can add ciphertexts together. We can define a procedure for multiplication as well, but it becomes far more complicated and involved.
 
