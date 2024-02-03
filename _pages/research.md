@@ -21,7 +21,7 @@ The most relevant application of homomorphic encryption is for secure cloud comp
 
 The standard homomorphic encryption schemes take advantage of the ring learning with errors (RLWE) problem. For some polynomial $$\Phi(x)$$ of degree $$n$$, define the following rings $$R$$ and $$R_q$$:
 
-$$ R_n = \mathbb{Z}[x]/(\Phi (x)) $$
+$$ R = \mathbb{Z}[x]/(\Phi (x)) $$
 
 $$ R_q = \mathbb{Z}[x]/(\Phi (x),q) $$
 
