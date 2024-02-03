@@ -25,11 +25,11 @@ $$ R_n = \mathbb{Z}[x]/(\Phi (x)) $$
 
 $$ R_q = \mathbb{Z}[x]/(\Phi (x),q) $$
 
-First, choose secret $$s \in R$$ random with small coefficients. Then, sample some polynomial $$a$$ uniform randomly from $$R_q$$, and sample random polynomial $$e$$ with small coefficients from $$R$$. Then, compute $$b\in R_q$$ via $$b= -as+e \mod q$$. The ordered pair $$(a,b)$$ is called an RLWE sample.
+First, choose secret $$s \in R$$ random with small coefficients. Then, sample some polynomial $$a$$ uniform randomly from $$R_q$$, and sample random polynomial $$e$$ with small coefficients from $$R$$. Then, compute $$b\in R_q$$ via $$b= -as+e \mod (\Phi,q)$$. The ordered pair $$(a,b)$$ is called an RLWE sample.
 
 The RLWE problem is given many RLWE samples, to determine the secret polynomial $$s$$. The hardness of this problem was shown by [Lyubashevsky, Peikert, and Regev](https://dl.acm.org/doi/10.1007/978-3-642-13190-5_1) in 2010, and is the underlying problem in current homomorphic encryption schemes.
 
-In these schemes, the ciphertext essentially forms a modified RLWE sample. For instance, in the [BGV](https://eprint.iacr.org/2011/277) scheme, we start with a message $$m \in R_t$$ for some plaintext modulus $$t$$. To encrypt $$m$$, we sample $$a$$, $$e$$, and secret $$s$$ as above, then calculate $$b\in R_q$$ via $$b= -as+m+te \mod q$$. The ordered pair $$(a,b)$$ forms our BGV ciphertext. This describes the private key encryption algorithm, but a public key version of all these cryptosystems exist as well.
+In these schemes, the ciphertext essentially forms a modified RLWE sample. For instance, in the [BGV](https://eprint.iacr.org/2011/277) scheme, we start with a message $$m \in R_t$$ for some plaintext modulus $$t$$. To encrypt $$m$$, we sample $$a$$, $$e$$, and secret $$s$$ as above, then calculate $$b\in R_q$$ via $$b= -as+m+te \mod (\Phi,q)$$. The ordered pair $$(a,b)$$ forms our BGV ciphertext. This describes the private key encryption algorithm, but a public key version of all these cryptosystems exist as well.
 
 The unique aspect of the encryption is that our ciphertexts are in a format where we can define addition and multiplication operations between them. For example, let’s suppose we have two BGV ciphertexts $$(a_0,b_0)$$ and $$(a_1,b_1)$$ which satisfy
 
