@@ -19,7 +19,7 @@ The most relevant application of homomorphic encryption is for secure cloud comp
 
 ### How does homomorphic encryption work?
 
-The standard homomorphic encryption schemes take advantage of the ring learning with errors (RLWE) problem. For some polynomial $ \Phi(x) $ of degree $n$, define the following rings $R$ and $R_q$:
+The standard homomorphic encryption schemes take advantage of the ring learning with errors (RLWE) problem. For some polynomial $$\Phi(x)$$ of degree $n$, define the following rings $R$ and $R_q$:
 
 $$ R_n = \mathbb{Z}[x]/(\Phi (x)) $$
 
