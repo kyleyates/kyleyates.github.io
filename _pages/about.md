@@ -9,7 +9,7 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>kjyates@clemson.edu</p>
+    <p>[kjyates@clemson.edu](kjyates@clemson.edu)</p>
     <p>Martin Hall E-3</p>
     <p>Clemson University</p>
     <p>Clemson, SC 29631</p>
