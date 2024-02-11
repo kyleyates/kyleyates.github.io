@@ -1,0 +1,198 @@
+time for x:=1 to 1 do
+
+C:=GolayCode(GF(2),false); //This can be any code
+
+n:=Length(C);
+k:=Dimension(C);
+
+H:=ParityCheckMatrix(C);
+
+k1:=5;
+k2:=k-k1;
+l1:=2;
+l2:=2;
+
+p1:=1;
+p2:=0;
+q1:=0;
+q2:=0;
+
+
+e:=Matrix(GF(2),n,1,[]); //input any error vector
+e[1,1]:=1;
+
+
+w:=Weight(Vector(e));
+
+
+s:=H*e;
+
+
+
+H:=Transpose(H);
+
+Z:={};
+Zc:={};
+Zcv:={};
+
+RS:={1..n};
+
+repeat
+ran:=Random(RS);
+Zct:=Zcv join {H[ran]};
+
+if IsIndependent(Zct) eq true then
+Zcv:=Zct;
+Zc:=Zc join {ran};
+end if;
+
+RS:=RS diff {ran};
+
+until #Zc eq n-k;
+
+Z:={1..n} diff Zc;
+
+H:=Transpose(H);
+
+
+
+Fk1:=RandomSubset(Z, k1);
+Fk2:=Z diff Fk1;
+
+Fl1:=RandomSubset(Zc, l1);
+Zi:= Zc diff Fl1;
+Fl2:=RandomSubset(Zi, l2);
+Fnkl1l2:= Zi diff Fl2;
+
+
+
+Z:=Sort(SetToSequence(Z));
+Zc:=Sort(SetToSequence(Zc));
+V:=Matrix(GF(2),n-k,n-k,[]);
+for i:=1 to n-k do for j:=1 to n-k do
+V[i,j]:=H[i,Zc[j]];
+end for; end for;
+U:=V^-1;
+UH:=Transpose(U*H);
+A:=Matrix(GF(2),k,n-k,[]);
+for i:=1 to #Z do
+A[i]:=UH[Z[i]];
+end for;
+A:=Transpose(A);
+A1:=ExtractBlock(A, 1, 1, l1+l2, k);
+A2:=ExtractBlock(A, l1+l2+1, 1,n-k-l1-l2, k);
+
+Us:=U*s;
+s1:=ExtractBlock(Us, 1, 1, l1+l2, 1);
+s2:=ExtractBlock(Us, l1+l2+1, 1,n-k-l1-l2, 1);
+
+//  okay
+
+T:=[];
+ct:=1;
+T1:=Subsets({1..k2}, p2);
+T2:=Subsets({1..l2}, q2);
+for a in T1 do 
+y0:=Matrix(GF(2),k,1,[]);
+
+
+if #T1 ne 0 then
+for b in a do
+y0[k1+b,1]:=1;
+end for; end if;
+
+
+for c in T2 do 
+y1:=Matrix(GF(2),l1+l2,1,[]);
+
+if #T2 ne 0 then
+for d in c do
+y1[l1+d,1]:=1;
+end for; end if;
+
+v:=A1*y0+y1+s1;
+
+
+if #T eq 0 then
+Append(~T,<v,{<y0,y1>}>);
+else
+for h:=1 to ct do
+if T[ct][1] eq v then
+T[ct][2]:=T[ct][2] join {<y0,y1>};
+break h;
+else
+Append(~T,<v,{<y0,y1>}>);
+ct:=ct+1;
+end if;
+end for;
+
+end if;
+
+end for;end for;
+
+
+S:=[];
+ct:=1;
+S1:=Subsets({1..k1}, p1);
+S2:=Subsets({1..l1}, q1);
+for a in S1 do 
+x0:=Matrix(GF(2),k,1,[]);
+
+
+if #S1 ne 0 then
+for b in a do
+x0[b,1]:=1;
+end for; end if;
+
+
+for c in S2 do 
+x1:=Matrix(GF(2),l1+l2,1,[]);
+
+if #S2 ne 0 then
+for d in c do
+x1[d,1]:=1;
+end for; end if;
+
+v:=A1*x0+x1;
+
+for r:=1 to #T do
+if T[r][1] eq v then
+
+
+for dl in T[r][2] do
+cl:=Vector(A2*(x0+dl[1])+s2);
+
+if Weight(cl) eq w-p1-p2-q1-q2 then
+
+
+t1:=x0+dl[1];
+t2:=x1+dl[2];
+t3:=A2*(x0+dl[1])+s2;
+
+
+R:=Matrix(GF(2),n,1,[]);
+for i in Z do
+R[i]:=t1[Index(Z, i)];
+end for;
+
+for i:=1 to l1+l2 do
+R[Zc[i]]:=t2[i];
+end for;
+
+for i:=1 to n-k-l1-l2 do
+R[Zc[i+l1+l2]]:=t3[i];
+end for;
+
+print Vector(R);
+break x;
+
+end if;
+end for;
+
+end if;
+end for;
+
+end for; end for;
+
+
+end for; //xfor
