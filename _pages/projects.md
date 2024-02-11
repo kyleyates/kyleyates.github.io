@@ -13,7 +13,7 @@ On this page, you'll find information on unpublished projects.
 
 **Ball-collision Decoding Analysis: Linear Codes in the McEliece Cryptosystem. (Undergraduate Thesis)**
 
-This undergraduate thesis implemented, tested, and analyzed the ball-collision decoding algorithm from Bernstein, Lange, and Peters. The final version of my undergraduate thesis can be found here. My implementation of the ball-collision decoding algorithm in Magma computer algebra (V2.24-6) can be found [here](https://kyleyates.github.io/assets/BCDalgorithm.txt).
+This undergraduate thesis implemented, tested, and analyzed the ball-collision decoding algorithm from Bernstein, Lange, and Peters. The final version of my undergraduate thesis can be found here. My implementation of the ball-collision decoding algorithm in Magma computational algebra (V2.24-6) can be found [here](https://kyleyates.github.io/assets/BCDalgorithm.txt).
 
 ### Dynamical Systems
 
