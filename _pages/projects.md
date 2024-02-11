@@ -13,5 +13,5 @@ On this page, you'll find information on unpublished projects.
 
 ### Ball-collision Decoding Analysis: Linear Codes in the McEliece Cryptosystem. (Undergraduate Thesis)
 
-This undergraduate thesis implemented, tested, and analyzed the ball-collision decoding algorithm for linear codes, an algorithm from Bernstein, Lange, and Peters in this paper.
+This undergraduate thesis implemented, tested, and analyzed the ball-collision decoding algorithm from Bernstein, Lange, and Peters.
 
