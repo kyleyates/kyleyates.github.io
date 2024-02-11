@@ -8,6 +8,9 @@ children:
   - title: CV
     permalink: /assets/pdf/CV.pdf
   - title: divider
+  - title: Projects
+    permalink: /projects/
+  - title: divider
   - title: Slides
     permalink: /slides/
 ---
