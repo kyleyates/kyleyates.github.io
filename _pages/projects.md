@@ -10,3 +10,6 @@ nav_order: 6
 On this page, you'll find information on unpublished projects.
 
 ### Undergraduate Projects
+
+Ball-collision Decoding Analysis: Linear Codes in the McEliece Cryptosystem. (Undergraduate Thesis)
+
