@@ -7,7 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-On this page, you'll find information on unpublished projects.
+On this page, you'll find information on unpublished projects that I have worked on in the past.
 
 ### Coding Theory Projects
 
