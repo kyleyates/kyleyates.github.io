@@ -9,6 +9,10 @@ nav_order: 6
 
 My research area is in cryptography. Specifically, most of my work is in an area of cryptography known as homomorphic encryption.
 
+# Publications
+
+[Efficiency of Homomorphic Encryption Schemes (Thesis)](https://tigerprints.clemson.edu/all_theses/3868/)
+
 ### What is homomorphic encryption?
 
 Homomorphic encryption describes encryption schemes in which ciphertexts (ie, encrypted messages) can be added and multiplied together by parties who have access only to public information. In this scenario, anyone can perform computation on encrypted data, while learning nothing about the data (or any private information).
