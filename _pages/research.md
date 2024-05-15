@@ -9,7 +9,7 @@ nav_order: 6
 
 My research area is in cryptography. Specifically, most of my work is in an area of cryptography known as homomorphic encryption.
 
-# Publications
+### Publications
 
 [Efficiency of Homomorphic Encryption Schemes (Thesis)](https://tigerprints.clemson.edu/all_theses/3868/)
 
