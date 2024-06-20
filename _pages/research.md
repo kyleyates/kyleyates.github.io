@@ -11,6 +11,8 @@ My research area is in cryptography. Specifically, most of my work is in an area
 
 ### Publications
 
+[Leveled Homomorphic Encryption Schemes for Homomorphic Encryption Standard (Preprint)](https://eprint.iacr.org/2024/991)
+
 [Efficiency of Homomorphic Encryption Schemes (Thesis)](https://tigerprints.clemson.edu/all_theses/3868/)
 
 ### What is homomorphic encryption?
