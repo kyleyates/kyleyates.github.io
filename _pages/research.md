@@ -21,7 +21,7 @@ Homomorphic encryption describes encryption schemes in which ciphertexts (ie, en
 
 ### Why is homomorphic encryption useful?
 
-The most relevant application of homomorphic encryption is for secure cloud computing. Since homomorphic encryption allows for computation on data without any knowledge of what the data is, sensitive information can be outsourced for secure computation.
+Homomorphic encryption allows for secure and private data processing in various applications such as cloud computing and machine learning. Since homomorphic encryption allows for computation on data without any knowledge of what the data is, sensitive information can be outsourced for secure computation.
 
 ### How does homomorphic encryption work?
 
