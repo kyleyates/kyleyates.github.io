@@ -10,7 +10,7 @@ nav_order: 6
 
 ### Research Presentations
 
-Here are slideshows from various research presentations.
+Here, you'll find slides from a sample of different research presentations.
 
 | Title  | Conference or Seminar |
 | ------------- | ------------- |
