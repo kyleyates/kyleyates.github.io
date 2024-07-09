@@ -14,7 +14,11 @@ I currently serve in [Clemson's Graduate Student Government](https://gsg.people.
 
 I also serve as a chair for the School of Mathematical and Statistical Sciences Graduate Student Advisory Council (GSAC). This council works to engage the mathematics and statistics graduate students at Clemson, as well as represent our graduate student's perspectives to the department. Within GSAC, I am chair of the bylaws committee and a member of the resources committee.
 
+Recently, I've joined the College of Science Student Advisory Board. This student group works with the College of Sciences in an effort to assist in academic coaching, publicity, outreach and events, study Abroad, and community outreach
+
 ### Former Roles
 
-Previously, I have served in various roles for San Diego State's Chapter of [Phi Mu Alpha Sinfonia](https://www.sinfonia.org/) Fraternity. During my tenure I served as President (1 year), Vice President (1 year), and Treasurer (1 year). I was also a member of the staff and student leadership team for the San Diego State Marching Aztecs (2 years).
+Previously at Clemson, I have served as the student representative on the School of Mathematical and Statistical Sciences (SMSS) director search committee. This departmental committee worked with the Dean of the College of Sciences to conduct a national search for the position of SMSS director.
+
+At San Diego State University, I served in various roles for San Diego State's Chapter of [Phi Mu Alpha Sinfonia](https://www.sinfonia.org/) Fraternity. During my tenure I served as President (1 year), Vice President (1 year), and Treasurer (1 year). I was also a member of the staff and student leadership team for the San Diego State Marching Aztecs (2 years).
 
