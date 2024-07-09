@@ -14,7 +14,7 @@ I currently serve in [Clemson's Graduate Student Government](https://gsg.people.
 
 I also serve as a chair for the School of Mathematical and Statistical Sciences Graduate Student Advisory Council (GSAC). This council works to engage the mathematics and statistics graduate students at Clemson, as well as represent our graduate student's perspectives to the department. Within GSAC, I am chair of the bylaws committee and a member of the resources committee.
 
-Recently, I've joined the College of Science Student Advisory Board. This student group works with the College of Sciences in an effort to assist in academic coaching, publicity, outreach and events, study Abroad, and community outreach
+Recently, I've joined the College of Science Student Advisory Board. This student group works with the College of Sciences in an effort to assist in academic coaching, publicity, outreach and events, study abroad, and community outreach
 
 ### Former Roles
 
