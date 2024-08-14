@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: headshot.jpg
+  image: yates_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>kjyates@clemson.edu</p>
