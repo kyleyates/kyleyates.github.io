@@ -24,5 +24,5 @@ I am a mathematics Ph.D. candidate in the [School of Mathematical and Statistica
 
 Originally from the small town of Roseburg Oregon, I became interested in mathematics during my undergraduate at San Diego State University. I earned my B.S. in applied mathematics at San Diego State in 2020 under the direction of Dr. J. Carmelo Interlando. From there I moved to Clemson, South Carolina for graduate school. I received my M.S. in mathematical sciences from Clemson in 2022 under the direction of Dr. Shuhong Gao, and am now working on my Ph.D. in mathematical sciences.
 
-**I am currently on the job market and looking for academic positions with a start date of Fall of 2025. If you have questions about my research or teaching interests, please reach out to me at the email address above!**
+**I am currently on the job market and looking for academic positions to start in Fall 2025. If you have questions about my research or teaching interests, please reach out to me at the email address above!**
 
