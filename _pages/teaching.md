@@ -14,7 +14,7 @@ Here are the courses I have taught as the instructor of record at Clemson Univer
 
 | Semester  | Course |
 | ------------- | ------------- |
-| Spring 2024  | Statistics in Everyday Life  |
+| Fall 2024  | Statistics in Everyday Life  |
 | Fall 2024  | Business Calculus I  |
 | Spring 2024  | Calculus of One Variable II  |
 | Fall 2023  | Calculus of One Variable I ([RISE](https://www.clemson.edu/cecas/rise/index.html) section)  |
