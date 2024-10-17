@@ -9,7 +9,7 @@ nav_order: 6
 
 My research area is in cryptography. Specifically, most of my work is in an area of cryptography known as homomorphic encryption.
 
-For a statement on my research practices and directions, see [here](https://kyleyates.github.io/assets/pdf/yates_research_statement.pdf).
+%For a statement on my research practices and directions, see [here](https://kyleyates.github.io/assets/pdf/yates_research_statement.pdf).
 
 ### Publications
 
