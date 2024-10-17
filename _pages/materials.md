@@ -1,8 +1,8 @@
 
 ---
 layout: page
-permalink: /slides/
-title: Presentation Slides
+permalink: /materials/
+title: Application Materials
 description:
 nav: false
 nav_order: 6
