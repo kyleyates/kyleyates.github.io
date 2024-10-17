@@ -11,7 +11,7 @@ For a statement on my teaching philosophies, see [here](https://kyleyates.github
 
 ### Courses Taught at Clemson (Instructor of Record)
 
-Here are the courses I have taught as the instructor of record at Clemson University. 
+Here are the courses I have taught as the instructor of record at Clemson University. Anonymous student evaluations of teaching are linked for each course.
 
 | Semester  | Course |
 | ------------- | ------------- |
