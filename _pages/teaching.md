@@ -17,12 +17,12 @@ Here are the courses I have taught as the instructor of record at Clemson Univer
 | ------------- | ------------- |
 | Fall 2024  | Statistics in Everyday Life |
 | Fall 2024  | Business Calculus I  |
-| Spring 2024  | [Calculus of One Variable II](https://kyleyates.github.io/assets/pdf/spring2024.pdf)  |
-| Fall 2023  | [Calculus of One Variable](https://kyleyates.github.io/assets/pdf/fall2023.pdf) I ([RISE](https://www.clemson.edu/cecas/rise/index.html) section)  |
-| Spring 2023  | [Calculus of One Variable I](https://kyleyates.github.io/assets/pdf/spring2023.pdf)  |
-| Fall 2022  | [Business Calculus I](https://kyleyates.github.io/assets/pdf/fall2022.pdf)  |
-| Spring 2022  | [Business Calculus I](https://kyleyates.github.io/assets/pdf/spring2022.pdf)  |
-| Fall 2021  | [Business Calculus I](https://kyleyates.github.io/assets/pdf/fall2021.pdf)  |
+| Spring 2024  | Calculus of One Variable II ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/spring2024.pdf))  |
+| Fall 2023  | Calculus of One Variable I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/fall2023.pdf)) |
+| Spring 2023  | Calculus of One Variable I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/spring2023.pdf))  |
+| Fall 2022  | Business Calculus I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/fall2022.pdf))  |
+| Spring 2022  | Business Calculus I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/spring2022.pdf))  |
+| Fall 2021  | Business Calculus I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/fall2021.pdf))  |
 
 
 
