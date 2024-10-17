@@ -8,9 +8,14 @@ nav_order: 6
 ---
 
 
-### Research Presentations
+### Application Materials
 
-Here, you'll find slides from a sample of different research presentations.
+For a copy of my CV, please see this file.
+
+For a statement on my teaching philosophy, please see this file.
+
+For a statement on my research practices and directions, please see this file.
+
 
 | Title  | Conference or Seminar |
 | ------------- | ------------- |
