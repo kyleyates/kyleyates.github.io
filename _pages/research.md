@@ -59,8 +59,6 @@ The part of homomorphic encryption I study is specifically on the “noise” te
 
 The significance in the term $$e$$ is that if this term grows too large, we can no longer accurately decrypt our ciphertext. So, it is important to analyze and manage the noise growth as operations occur. In the [CKKS](https://eprint.iacr.org/2016/421) scheme, which allows for approximate homomorphic computation, the noise growth also affects the accuracy of the final decrypted message.
 
-If you’re curious at a more in-depth look at what I study, my M.S. thesis is available [here](https://tigerprints.clemson.edu/all_theses/3868/).
-
 ### Resources and Libraries for Homomorphic Encryption
 
 [FHE.org](https://fhe.org/)
