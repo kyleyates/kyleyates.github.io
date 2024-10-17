@@ -11,18 +11,18 @@ For a statement on my teaching philosophies, see [here](https://kyleyates.github
 
 ### Courses Taught at Clemson (Instructor of Record)
 
-Here are the courses I have taught as the instructor of record at Clemson University.
+Here are the courses I have taught as the instructor of record at Clemson University. 
 
 | Semester  | Course |
 | ------------- | ------------- |
-| Fall 2024  | Statistics in Everyday Life  |
+| Fall 2024  | Statistics in Everyday Life |
 | Fall 2024  | Business Calculus I  |
-| Spring 2024  | Calculus of One Variable II  |
-| Fall 2023  | Calculus of One Variable I ([RISE](https://www.clemson.edu/cecas/rise/index.html) section)  |
-| Spring 2023  | Calculus of One Variable I  |
-| Fall 2022  | Business Calculus I  |
-| Spring 2022  | Business Calculus I  |
-| Fall 2021  | Business Calculus I  |
+| Spring 2024  | [Calculus of One Variable II](https://kyleyates.github.io/assets/pdf/spring2024.pdf)  |
+| Fall 2023  | [Calculus of One Variable](https://kyleyates.github.io/assets/pdf/fall2023.pdf) I ([RISE](https://www.clemson.edu/cecas/rise/index.html) section)  |
+| Spring 2023  | [Calculus of One Variable I](https://kyleyates.github.io/assets/pdf/spring2023.pdf)  |
+| Fall 2022  | [Business Calculus I](https://kyleyates.github.io/assets/pdf/fall2022.pdf)  |
+| Spring 2022  | [Business Calculus I](https://kyleyates.github.io/assets/pdf/spring2022.pdf)  |
+| Fall 2021  | [Business Calculus I](https://kyleyates.github.io/assets/pdf/fall2021.pdf)  |
 
 
 
