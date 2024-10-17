@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+For a statement on my teaching philosophies, see [here](https://kyleyates.github.io/assets/pdf/yates_teaching_statement.pdf).
 
 ### Courses Taught at Clemson (Instructor of Record)
 
