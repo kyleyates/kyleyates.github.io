@@ -13,7 +13,7 @@ My research area is in cryptography. Specifically, most of my work is in an area
 
 [Leveled Homomorphic Encryption Schemes for Homomorphic Encryption Standard (Preprint, with S. Gao)](https://eprint.iacr.org/2024/991)
 
-[On the Hardness of the $$ L_1-L_2 $$ Regularization Problem (Preprint, with Y. Ouyang)](https://arxiv.org/abs/2411.03216)
+[On the Hardness of the L1-L2 Regularization Problem (Preprint, with Y. Ouyang)](https://arxiv.org/abs/2411.03216)
 
 [Efficiency of Homomorphic Encryption Schemes (MS Thesis)](https://tigerprints.clemson.edu/all_theses/3868/)
 
