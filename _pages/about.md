@@ -9,7 +9,7 @@ profile:
   image: yates_headshot.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>kjyates@clemson.edu</p>
+    <p>kj.yates.mail@gmail.com</p>
     <p>Martin Hall E-3</p>
     <p>Clemson University</p>
     <p>Clemson, SC 29631</p>
@@ -24,5 +24,5 @@ I am a mathematics Ph.D. candidate in the [School of Mathematical and Statistica
 
 Originally from the small town of Roseburg Oregon, I became interested in mathematics during my undergraduate at San Diego State University. I earned my B.S. in applied mathematics at San Diego State in 2020 under the direction of Dr. J. Carmelo Interlando. From there I moved to Clemson, South Carolina for graduate school. I received my M.S. in mathematical sciences from Clemson in 2022 under the direction of Dr. Shuhong Gao, and am now working on my Ph.D. in mathematical sciences.
 
-**I am currently on the job market and looking for academic positions to start in Fall 2025. My application materials can be found on [this page](https://kyleyates.github.io/materials/). Please reach out to me at the email address listed for any reason!**
+**I am currently on the job market and looking for positions to start in Fall 2025. My application materials can be found on [this page](https://kyleyates.github.io/materials/). Please reach out to me at the email address listed for any reason!**
 
