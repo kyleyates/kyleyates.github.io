@@ -15,8 +15,8 @@ Here are the courses I have taught as the instructor of record at Clemson Univer
 
 | Semester  | Course |
 | ------------- | ------------- |
-| Fall 2024  | Statistics in Everyday Life |
-| Fall 2024  | Business Calculus I  |
+| Fall 2024  | Statistics in Everyday Life ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/fall2024stats.pdf)) |
+| Fall 2024  | Business Calculus I  ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/fall2024calc.pdf)) |
 | Spring 2024  | Calculus of One Variable II ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/spring2024.pdf))  |
 | Fall 2023  | Calculus of One Variable I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/fall2023.pdf)) |
 | Spring 2023  | Calculus of One Variable I ([Anonymous Evaluations](https://kyleyates.github.io/assets/pdf/spring2023.pdf))  |
