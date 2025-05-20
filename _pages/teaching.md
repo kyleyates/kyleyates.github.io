@@ -32,6 +32,9 @@ Here are the courses I have served as a TA for at Clemson University.
 
 | Semester  | Course |
 | ------------- | ------------- |
+| Summer 2025  | Calculus of One Variable II  |
+| Spring 2025  | Nonlinear Programming  |
+| Spring 2025  | Linear Programming  |
 | Spring 2023  | Differential and Integral Calculus  |
 | Summer 2021  | Introduction to Ordinary Differential Equations  |
 | Spring 2021  | Introduction to Ordinary Differential Equations  |
