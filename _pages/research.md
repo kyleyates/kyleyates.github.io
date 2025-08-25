@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-My research area is in cryptography. Specifically, most of my work is in an area of cryptography known as homomorphic encryption.
+I am an applied algebraist with a focus in cryptography. Specifically, most of my work is in an area of cryptography known as homomorphic encryption. On this page, you'll find a list of publications (including papers in revision and review), as well as a basic description of what my primary research area is.
 
 ### Publications
 
@@ -61,17 +61,6 @@ The part of homomorphic encryption I study is specifically on the “noise” te
 
 The significance in the term $$e$$ is that if this term grows too large, we can no longer accurately decrypt our ciphertext. So, it is important to analyze and manage the noise growth as operations occur. In the [CKKS](https://eprint.iacr.org/2016/421) scheme, which allows for approximate homomorphic computation, the noise growth also affects the accuracy of the final decrypted message.
 
-### Resources and Libraries for Homomorphic Encryption
-
-[FHE.org](https://fhe.org/)
-
-[Microsoft SEAL](https://www.microsoft.com/en-us/research/project/microsoft-seal/)
-
-[HEAAN](https://heaan.it/)
-
-[OpenFHE](https://www.openfhe.org/)
-
-[HElib](https://homenc.github.io/HElib/)
 
 
 
