@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: Service
 description: Here, you'll find information about roles I have served in for various organizations and departments.
-nav: true
+nav: false
 nav_order: 6
 ---
 
