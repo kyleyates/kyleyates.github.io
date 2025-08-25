@@ -11,11 +11,13 @@ My research area is in cryptography. Specifically, most of my work is in an area
 
 ### Publications
 
-[Leveled Homomorphic Encryption Schemes for Homomorphic Encryption Standard (Preprint, with S. Gao)](https://eprint.iacr.org/2024/991)
+[Leveled Homomorphic Encryption Schemes for Homomorphic Encryption Standard (with S. Gao)](https://eprint.iacr.org/2024/991). To appear in Journal of Mathematical Cryptology.
 
-[On the Hardness of the L1-L2 Regularization Problem (Preprint, with Y. Ouyang)](https://arxiv.org/abs/2411.03216)
+[On the Hardness of the L1-L2 Regularization Problem (Preprint, with Y. Ouyang)](https://arxiv.org/abs/2411.03216). In Revision.
 
-[Efficiency of Homomorphic Encryption Schemes (MS Thesis)](https://tigerprints.clemson.edu/all_theses/3868/)
+[Experimental Evaluation of Post-Quantum Homomorphic Encryption for Privacy-Preserving V2X Communication (with AA Mamun, A Rakotondrafara, M Chowdhury, R Cartor, S Gao)](https://arxiv.org/abs/2411.03216). In Review.
+
+[Efficiency of Homomorphic Encryption Schemes (MS Thesis)](https://tigerprints.clemson.edu/all_theses/3868/).
 
 ### What is homomorphic encryption?
 
