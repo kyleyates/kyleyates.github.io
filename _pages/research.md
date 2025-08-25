@@ -53,7 +53,7 @@ $$ b_2 + a_2s = b_0 + b_1 + (a_0 + a_1)s = (b_0 + a_0s) + (b_1 + a_1s)\equiv (m_
 
 $$ = m_0 + m_1 + t(e_0+e_1) = m_0+m_1 + te_2$$
 
-We omit some finer details here, but this captures the basic idea of how we can add ciphertexts together. We can define a procedure for multiplication as well, but it becomes far more complicated and involved.
+We omit some finer details here, but this captures the basic idea of how we can add ciphertexts together. A similar idea exists for multiplying two ciphertexts together as well. But, this far more complicated and beyond the scope if this basic webpage overview.
 
 ### What part of homomorphic encryption do you study?
 
