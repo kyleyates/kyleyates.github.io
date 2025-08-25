@@ -43,15 +43,15 @@ In these schemes, the ciphertext essentially forms a modified RLWE sample. For i
 
 The unique aspect of the encryption is that our ciphertexts are in a format where we can define addition and multiplication operations between them. For example, let’s suppose we have two BGV ciphertexts $$(a_0,b_0)$$ and $$(a_1,b_1)$$ which satisfy
 
-$$ b_0 + a_0s \equiv m_0 + te_0 $$
+$$ b_0 + a_0s \equiv m_0 + te_0 \mod (\Phi, q) $$
 
-$$ b_1 + a_1s \equiv m_1 + te_1 $$
+$$ b_1 + a_1s \equiv m_1 + te_1 \mod (\Phi, q) $$
 
 Then, we can add our ciphertexts together to form a new ciphertext $$(a_2,b_2) = (a_0,b_0)+(a_1,b_1)$$. If we define $$e_2 = e_0 + e_1$$, we then claim $$(a_2,b_2)$$ is an encryption of $$m_0+m_1$$. That is, $$(a_2,b_2)$$ satisfies the same relationship as $$(a_0,b_0)$$ and $$(a_1,b_1)$$ that we outline above, but for the message $$m_0+m_1$$ instead. Observe:
 
-$$ b_2 + a_2s \equiv b_0 + b_1 + (a_0 + a_1)s \equiv (b_0 + a_0s) + (b_1 + a_1s)\equiv (m_0 + te_0) + (m_1 + te_1)$$
+$$ b_2 + a_2s = b_0 + b_1 + (a_0 + a_1)s = (b_0 + a_0s) + (b_1 + a_1s)\equiv (m_0 + te_0) + (m_1 + te_1) \mod (\Phi, q)$$
 
-$$ \equiv m_0 + m_1 + t(e_0+e_1) \equiv m_0+m_1 + te_2 \mod (\Phi, q)$$
+$$ = m_0 + m_1 + t(e_0+e_1) = m_0+m_1 + te_2$$
 
 We omit some finer details here, but this captures the basic idea of how we can add ciphertexts together. We can define a procedure for multiplication as well, but it becomes far more complicated and involved.
 
