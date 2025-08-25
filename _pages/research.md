@@ -13,7 +13,7 @@ My research area is in cryptography. Specifically, most of my work is in an area
 
 [Leveled Homomorphic Encryption Schemes for Homomorphic Encryption Standard (with S. Gao)](https://eprint.iacr.org/2024/991). To appear in Journal of Mathematical Cryptology.
 
-[On the Hardness of the L1-L2 Regularization Problem (Preprint, with Y. Ouyang)](https://arxiv.org/abs/2411.03216). In Revision.
+[On the Hardness of the L1-L2 Regularization Problem (with Y. Ouyang)](https://arxiv.org/abs/2411.03216). In Revision.
 
 [Experimental Evaluation of Post-Quantum Homomorphic Encryption for Privacy-Preserving V2X Communication (with AA Mamun, A Rakotondrafara, M Chowdhury, R Cartor, S Gao)](https://arxiv.org/abs/2411.03216). In Review.
 
