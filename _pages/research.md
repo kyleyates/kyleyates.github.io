@@ -15,7 +15,7 @@ My research area is in cryptography. Specifically, most of my work is in an area
 
 [On the Hardness of the L1-L2 Regularization Problem (with Y. Ouyang)](https://arxiv.org/abs/2411.03216). In Revision.
 
-[Experimental Evaluation of Post-Quantum Homomorphic Encryption for Privacy-Preserving V2X Communication (with AA Mamun, A Rakotondrafara, M Chowdhury, R Cartor, S Gao)](https://arxiv.org/abs/2411.03216). In Review.
+[Experimental Evaluation of Post-Quantum Homomorphic Encryption for Privacy-Preserving V2X Communication (with AA Mamun, A Rakotondrafara, M Chowdhury, R Cartor, S Gao)](https://arxiv.org/abs/2508.02461). In Review.
 
 [Efficiency of Homomorphic Encryption Schemes (MS Thesis)](https://tigerprints.clemson.edu/all_theses/3868/).
 
